@@ -1,3 +1,4 @@
+import Tessact from 'tesseract.js'
 // Function to handle image upload and conversion
 function convertImageToText() {
   const input = document.getElementById('image-input');
